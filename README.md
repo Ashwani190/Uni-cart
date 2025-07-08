@@ -36,11 +36,8 @@ ________________________________________
 4.5 Review & Ratings
 •	Users can rate sellers/buyers after successful transactions
 •	Build trust and reputation within the community
-4.6 Admin Features
-•	Approve/disable user accounts
-•	Manage inappropriate listings
-•	Moderate reported products or users
-4.7 Notifications
+
+4.6 Notifications
 •	Email or push notifications for product inquiries, offers, status updates
 ________________________________________
 5. Technology Stack (Recommended)
@@ -48,7 +45,7 @@ ________________________________________
 •	Backend: Django (Python) 
 •	Database: PostgreSQL
 •	Authentication: Django built-in auth (if Django) csrf tokens 
-•	Hosting/Deployment: AWS, DigitalOcean, or university servers, PythonAnywhere
+•	Hosting/Deployment: (AWS, DigitalOcean, or university servers), PythonAnywhere
 •	Version Control: Git + GitHub
 •	Optional Integrations: Stripe/PayPal sandbox for mock payment systems
 ________________________________________
